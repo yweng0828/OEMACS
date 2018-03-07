@@ -1,0 +1,7 @@
+﻿  OEMACS.cpp
+d:\农田\oemacs\oemacs.cpp(424): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\农田\oemacs\oemacs.cpp(436): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\农田\oemacs\oemacs.cpp(448): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\农田\oemacs\oemacs.cpp(474): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\农田\oemacs\oemacs.cpp(499): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+  OEMACS.vcxproj -> D:\农田\OEMACS\Debug\OEMACS.exe

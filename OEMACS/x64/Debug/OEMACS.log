@@ -1,0 +1,3 @@
+﻿  OEMACS.cpp
+d:\农田\oemacs\oemacs.cpp(51): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  OEMACS.vcxproj -> D:\农田\OEMACS\x64\Debug\OEMACS.exe
